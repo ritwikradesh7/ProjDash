@@ -1,0 +1,10 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: Inter, Roboto, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
+  background: linear-gradient(180deg, #f6f4ff 0%, #f0f4ff 100%);
+}
+
+.MuiPaper-root {
+  border-radius: 12px;
+}
